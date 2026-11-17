@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+artifacts/*.log
+.streamlit/secrets.toml
+.vscode/
+Doctor.code-workspace

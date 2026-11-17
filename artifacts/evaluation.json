@@ -1,0 +1,22 @@
+{
+  "classes": 78,
+  "training_images": 2903,
+  "validation_images": 756,
+  "test_images": 744,
+  "duplicate_images_excluded": {
+    "train": 217,
+    "validation": 24,
+    "test": 36
+  },
+  "conflicting_label_images_excluded": {
+    "train": 2,
+    "validation": 0,
+    "test": 4
+  },
+  "epochs_completed": 35,
+  "training_complete": true,
+  "best_validation_accuracy": 0.9457671957671958,
+  "test_accuracy": 0.831989247311828,
+  "test_loss": 0.804537437295401,
+  "checkpoint": "resnet50_medicine.pt"
+}
